@@ -1,0 +1,7 @@
+.f {
+    color:blue;
+    transition: transform .2s;
+}
+.f:hover {
+    transform: scale(20);
+}
